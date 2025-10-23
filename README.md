@@ -5,6 +5,7 @@ While other voice and sound packs focus on quirky or humorous sounds, this one i
 
 **Used voice:** SoniaNeural
 
+> You might need to bump up the volume a bit on your Dreame depending on your preference.
 
 ### Installation
 Get the URL of the soundpack: https://github.com/GreyEarl/human_soundpack_dreame/raw/main/human_voicepack.tar.gz
