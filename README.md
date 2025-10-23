@@ -12,4 +12,4 @@ Get the corresponding MD5 hash of this file: 7190CC8BCE371F3A0B9400A3C6E78F74
 
 Go to your Valetudo page <IP/HOSTNAME>/#/options/robot/misc
 
-Write down the data (the language code can be chosen by you, just don't use an official language like DE, EN, ...)
+The language code can be random, just don't use an official language code like NL or EN
