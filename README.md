@@ -6,7 +6,7 @@ Used voice: SoniaNeural
 
 
 ### Installation
-Get the URL of the soundpack: [Human Voicepack](https://github.com/GreyEarl/human_soundpack_dreame/raw/main/human_soundpack.tar.gz)
+Get the URL of the soundpack: https://github.com/GreyEarl/human_soundpack_dreame/raw/main/human_soundpack.tar.gz
 
 Get the corresponding MD5 hash of this file: 7190CC8BCE371F3A0B9400A3C6E78F74
 
