@@ -10,7 +10,7 @@ While other voice and sound packs focus on quirky or humorous sounds, this one i
 ### Installation
 Get the URL of the soundpack: https://github.com/GreyEarl/human_voicepack_dreame/raw/main/human_voicepack.tar.gz
 
-Get the corresponding MD5 hash of this file: 7190CC8BCE371F3A0B9400A3C6E78F74
+Get the corresponding MD5 hash of this file: 81051BCC2CF1BEDF378224B0A93E2877
 
 Go to the Valetudo page: <IP>/#/options/robot/misc
 
