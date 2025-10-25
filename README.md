@@ -8,7 +8,7 @@ While other voice and sound packs focus on quirky or humorous sounds, this one i
 > You might need to bump up the volume a bit on your Dreame depending on your preference.
 
 ### Installation
-Get the URL of the soundpack: https://github.com/GreyEarl/human_voicepack_dreame/raw/main/human_voicepack.tar.gz
+Get the URL of the soundpack: https://github.com/GreyEarl/human_voicepack_dreame/raw/main/human_soundpack.tar.gz
 
 Get the corresponding MD5 hash of this file: 7190CC8BCE371F3A0B9400A3C6E78F74
 
